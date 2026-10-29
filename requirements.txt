@@ -1,0 +1,4 @@
+anthropic>=0.49.0
+rich>=13.7.0
+python-dotenv>=1.0.0
+matplotlib>=3.8.0
